@@ -116,5 +116,3 @@ While ARIMA achieves high service levels, it does so through unstable and costly
 - Avoid complex models that amplify volatility unless service levels are mission-critical and operational costs are secondary.
 - Evaluate forecasting models based on their downstream operational consequences, not accuracy metrics alone.
 
-## Summary Insight
-The figures collectively demonstrate that **forecast accuracy, service level, and inventory cost are structurally decoupled**. Optimal operational decisions arise from integrated forecast–inventory evaluation rather than isolated forecasting improvements.
