@@ -84,6 +84,7 @@ Forecast-informed safety stock decisions are critical leverage points in invento
 **Description** 
 This figure illustrates the dynamic evolution of inventory levels.
 
+**Insights**
 ETS exhibits the most stable inventory trajectory, avoiding extreme peaks and deep stockouts. ARIMA shows pronounced oscillations, frequently switching between surplus and shortage, indicating unstable forecast signals being amplified by the inventory policy.
 
 Naïve and Moving Average models demonstrate moderate fluctuations but exhibit delayed responsiveness to demand changes.
@@ -98,6 +99,7 @@ Inventory stability is a critical determinant of operational robustness, working
 **Description** 
 This figure compares replenishment order quantities over time.
 
+**Insights**
 ARIMA induces large and frequent order spikes, increasing coordination costs and supplier strain. ETS generates smoother and more predictable order patterns, aligning better with capacity and procurement constraints.
 
 **Operational insight:**  
